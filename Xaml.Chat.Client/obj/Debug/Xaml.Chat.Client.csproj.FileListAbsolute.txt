@@ -1,0 +1,99 @@
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Xaml.Chat.Client.exe.config
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.csprojResolveAssemblyReference.cache
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\MainWindow.baml
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\MainWindow.g.cs
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\App.g.cs
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client_MarkupCompile.cache
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.g.resources
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.Properties.Resources.resources
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.csproj.GenerateResource.Cache
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client_MarkupCompile.lref
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Xaml.Chat.Client.exe
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Xaml.Chat.Client.pdb
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Newtonsoft.Json.dll
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Newtonsoft.Json.xml
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.exe
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.pdb
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Xaml.Chat.Client.exe.config
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.exe
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.pdb
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.csprojResolveAssemblyReference.cache
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ConversationView.baml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\MainWindow.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ConversationView.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\App.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client_MarkupCompile.cache
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client_MarkupCompile.lref
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Xaml.Chat.Client.exe
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Xaml.Chat.Client.pdb
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Newtonsoft.Json.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\MainWindow.baml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.g.resources
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.Properties.Resources.resources
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.csproj.GenerateResource.Cache
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ConversationView.baml
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ConversationView.g.cs
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\EditProfileView.g.cs
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\GeneralView.g.cs
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ViewUserProfileView.g.cs
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\EditProfileView.baml
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\GeneralView.baml
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ViewUserProfileView.baml
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\LoginFormView.baml
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\RegisterFormView.baml
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\LoginFormView.g.cs
+D:\School\Telerik\C#\Code & HW\WPF\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\RegisterFormView.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ContactRequestsView.baml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\LoginFormView.baml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\RegisterFormView.baml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\SearchFormView.baml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ContactRequestsView.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\EditProfileView.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\GeneralView.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\LoginFormView.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\RegisterFormView.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\SearchFormView.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ViewUserProfileView.g.cs
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\EditProfileView.baml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\GeneralView.baml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ViewUserProfileView.baml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\MissedConversationsView.baml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\MissedConversationsView.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Xaml.Chat.Client.exe.config
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Xaml.Chat.Client.exe
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Xaml.Chat.Client.pdb
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.csprojResolveAssemblyReference.cache
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ContactRequestsView.baml
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\LoginFormView.baml
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\MissedConversationsView.baml
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\RegisterFormView.baml
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\SearchFormView.baml
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\MainWindow.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ContactRequestsView.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ConversationView.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\EditProfileView.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\GeneralView.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\LoginFormView.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\MissedConversationsView.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\RegisterFormView.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\SearchFormView.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ViewUserProfileView.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\App.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client_MarkupCompile.cache
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client_MarkupCompile.lref
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\MainWindow.baml
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ConversationView.baml
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\EditProfileView.baml
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\GeneralView.baml
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Views\ViewUserProfileView.baml
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.g.resources
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.Properties.Resources.resources
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.csproj.GenerateResource.Cache
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.exe
+C:\Users\ivopp_000\Documents\GitHub\XamlChat.Client\Xaml.Chat.Client\obj\Debug\Xaml.Chat.Client.pdb

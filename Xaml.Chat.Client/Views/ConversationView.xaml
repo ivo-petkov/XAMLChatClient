@@ -1,0 +1,66 @@
+﻿<UserControl x:Class="Xaml.Chat.Client.Views.ConversationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:converter="clr-namespace:Xaml.Chat.Client.Helpers"
+             xmlns:date="clr-namespace:Xaml.Chat.Client.Helpers"
+             >
+    <UserControl.Resources>
+        <converter:AddConverter x:Key="XAMLResourceAddConverter"></converter:AddConverter>
+        <converter:DateSimplifierConverter x:Key="DateSimplifier" />
+    </UserControl.Resources>
+    <StackPanel Orientation="Horizontal">
+        <!--Partner Info-->
+        <StackPanel>
+            <Image Source="{Binding Path=Partner.ProfilePictureUrl}" Width="150" Height="150"/>
+            <TextBlock Text="{Binding Path=Partner.Username}" HorizontalAlignment="Center"/>
+        </StackPanel>
+        
+        <!--Chat Container-->
+        <DockPanel VerticalAlignment="Stretch">
+            <ListBox ItemsSource="{Binding Path=CurrentConversation.Messages}" 
+                     DockPanel.Dock="Top" Height="400" Width="400">
+
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel>
+                            <!--<Label Content="{Binding Path=DataContext.CurrentUserInfo.Username,
+                                RelativeSource={RelativeSource AncestorType={x:Type UserControl}}}" 
+                                   x:Name="CurrentUserLabel"/>-->
+                   
+                            <TextBlock Text="{Binding Path=Sender.Username}">
+                                <TextBlock.Foreground>
+                                   <MultiBinding Converter="{StaticResource XAMLResourceAddConverter}">
+                                    <Binding Path="Sender.Username"/>
+                                </MultiBinding>
+                                </TextBlock.Foreground>
+                            </TextBlock>
+                            <TextBlock Text="[" />
+
+                            <TextBlock>
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource DateSimplifier}">
+                                        <Binding Path="Date" />
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                            <TextBlock Text="]: " />
+                            <TextBlock Text="{Binding Content}" />
+                        
+                        </WrapPanel>
+                        
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <WrapPanel DockPanel.Dock="Bottom" Width="400">
+                <TextBox Text="{Binding MessageToSend}" 
+                         Width="330" FontSize="15" Height="50" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible"/>
+                <Button Padding="10" FontSize="20" HorizontalAlignment="Right"
+                    Command="{Binding Path=DataContext.ConversationVM.SendMessage, RelativeSource={RelativeSource AncestorType={x:Type Window}}}"
+                    Content="Send" />
+            </WrapPanel>
+        </DockPanel>
+    </StackPanel>
+</UserControl>

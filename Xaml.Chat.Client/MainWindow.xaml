@@ -1,0 +1,111 @@
+﻿<Window 
+        xmlns:Views="clr-namespace:Xaml.Chat.Client.Views"
+        x:Class="Xaml.Chat.Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ViewModels="clr-namespace:Xaml.Chat.Client.ViewModels" 
+        Title="XAML Chat" SizeToContent="WidthAndHeight" MinWidth="300" MinHeight="300"
+    xmlns:helpers="clr-namespace:Xaml.Chat.Client.Helpers" Closing="Window_Closing"
+    Icon="Images/logo.png">
+
+    
+    <Window.DataContext>
+        <ViewModels:AppViewModel />
+    </Window.DataContext>
+    <Window.Resources>
+        <helpers:BoolToVisibilityConverter x:Key="boolToVisibilityConverter"/>
+
+        <DataTemplate            
+            DataType="{x:Type ViewModels:RegisterFormViewModel}">
+            <Views:RegisterFormView/>
+        </DataTemplate>
+        <DataTemplate            
+            DataType="{x:Type ViewModels:ConversationViewModel}">
+            <Views:ConversationView/>
+        </DataTemplate>
+        <DataTemplate            
+            DataType="{x:Type ViewModels:GeneralViewModel}">
+            <Views:GeneralView/>
+        </DataTemplate>
+        <DataTemplate            
+            DataType="{x:Type ViewModels:LoginViewModel}">
+            <Views:LoginFormView/>
+        </DataTemplate>
+        <DataTemplate            
+            DataType="{x:Type ViewModels:SearchFormViewModel}">
+            <Views:SearchFormView/>
+        </DataTemplate>
+        <DataTemplate            
+            DataType="{x:Type ViewModels:ProfileViewModel}">
+            <Views:EditProfile/>
+        </DataTemplate>
+        <DataTemplate      
+            DataType="{x:Type ViewModels:ContactRequestsViewModel}">
+            <Views:ContactRequestsView/>
+        </DataTemplate>
+        <DataTemplate      
+            DataType="{x:Type ViewModels:MissedConversationsViewModel}">
+            <Views:MissedConversationsView/>
+        </DataTemplate>
+        <DataTemplate            
+            DataType="{x:Type ViewModels:ViewUserProfileVewModel}">
+            <Views:ViewUserProfileView/>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+        <ToolBar Grid.Row="0" Height="45"
+                    Visibility="{Binding LoggedInUser, Converter={StaticResource boolToVisibilityConverter}}"
+                 >
+            <Button Command="{Binding GoToHome}">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images\Home.png" />
+                    <TextBlock Text="Home" Padding="5" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button Command="{Binding GoToProfile}">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images\Edit.png" />
+                    <TextBlock Text="Edit Profile" Padding="5" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button Command="{Binding GoToSearhContacts}">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images\Search.png" />
+                    <TextBlock Text="Search Contacts" Padding="5" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Command="{Binding GoToContactRequests}">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images\BusinessContact.png" />
+                    <TextBlock Text="{Binding ContactRequestsCount, StringFormat=Contact requests: {0}}"
+                               Padding="5" VerticalAlignment="Center"/>
+                </StackPanel>
+
+            </Button>
+
+            <Button Command="{Binding GoToMissedConversations}">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images\MissedCall.png" />
+                    <TextBlock Text="{Binding MissedConversationsCount, StringFormat=Missed conversations: {0}}"
+                               Padding="5" VerticalAlignment="Center"/>
+                </StackPanel>
+
+            </Button>
+
+            <Button Command="{Binding Logout}">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images\Logout.png" />
+                    <TextBlock Text="Logout" VerticalAlignment="Center" Padding="5"/>
+                </StackPanel>
+
+            </Button>
+        </ToolBar>
+        <ContentControl Grid.Row="1"
+            Content="{Binding Path=CurrentViewModel}" />
+    </Grid>
+</Window>

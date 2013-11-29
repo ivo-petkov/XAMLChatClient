@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="Xaml.Chat.Client.Views.ContactRequestsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d">
+    <StackPanel>
+        <ListBox x:Name="listBoxContactRequests" ItemsSource="{Binding ContactRequests}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <Image Source="{Binding Sender.ProfilePictureUrl}" Width="30" Height="30"/>
+                        <TextBlock Padding="3" Text="{Binding Sender.Username}"
+                                       FontSize="13" />
+                    </WrapPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <WrapPanel>
+            <Button Command="{Binding AcceptRequest}"
+                        CommandParameter="{Binding ElementName=listBoxContactRequests, Path=SelectedValue}">Accept</Button>
+            <Button Command="{Binding DenyRequest}"
+                        CommandParameter="{Binding ElementName=listBoxContactRequests, Path=SelectedValue}">Deny</Button>
+        </WrapPanel>
+
+        <TextBlock HorizontalAlignment="Center" Foreground="Green" FontWeight="Bold"
+                   Text="{Binding SuccessMessage}" />
+        <TextBlock HorizontalAlignment="Center" Foreground="Red" FontWeight="Bold"
+                   Text="{Binding ErrorMessage}" />
+    </StackPanel>
+</UserControl>
